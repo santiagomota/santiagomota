@@ -13,7 +13,7 @@ I'am Santiago, physicist in data science, Kaggle Master and Red Cross volunteer
 
 <img src="https://github-readme-stats.vercel.app/api?username=santiagomota&show_icons=true" alt=santiagomota />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomota" alt="santiagomota" /> </p>
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/santiagomota/competition)
 
 
 <!--
