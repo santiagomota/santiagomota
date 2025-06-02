@@ -15,6 +15,10 @@ I'am Santiago, physicist in data science, big data professor, Kaggle Master and 
 <img src="https://github-readme-stats.vercel.app/api?username=santiagomota&show_icons=true" alt=santiagomota />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomota" alt="santiagomota" /> </p>
 
+----
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrennie&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,lua&theme=transparent&langs_count=10" />
+
 
 <!--
 **santiagomota/santiagomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
