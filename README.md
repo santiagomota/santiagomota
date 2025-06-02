@@ -1,4 +1,4 @@
-I'am Santiago, physicist in data science, big data professor, Kaggle Master and Red Cross volunteer  
+I'am Santiago, physicist in data science, big data professor, Kaggle Master and Red Cross volunteer.  
 
 
 <p align="center">
@@ -12,7 +12,7 @@ I'am Santiago, physicist in data science, big data professor, Kaggle Master and 
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api?username=santiagomota&show_icons=true" alt=santiagomota />
+<img src="https://github-readme-stats.vercel.app/api?username=santiagomota&show_icons=true&theme=transparent" alt=santiagomota />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomota" alt="santiagomota" /> </p>
 
 ----
