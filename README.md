@@ -1,4 +1,4 @@
-I'am Santiago, physicist in data science, big data professor, Kaggle Master and Red Cross volunteer.  
+I'am Santiago, physicist in data science, big data professor and Kaggle Master.  
 
 
 <p align="center">
